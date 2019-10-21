@@ -1,6 +1,7 @@
 # Senac_Ep1
 
 Arquivo ep1.py contém o código python que realiza:
+
 -a conexão com um client MongoDB;
 -realiza uma requisição a uma url
   -esta url é uma API que retornar em formato json informações de produtos
